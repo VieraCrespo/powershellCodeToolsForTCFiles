@@ -3,6 +3,7 @@
   var arcPath = "F:\\";
   addVariable("ApplDataPath", "String", arcPath);
 
+
   var iniPath = "F:\\";
   addVariable("ApplIniFilePath", "String", iniPath);
 
